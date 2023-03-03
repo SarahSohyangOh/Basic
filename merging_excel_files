@@ -1,0 +1,6 @@
+"""
+예시) 12개월의 12개 세일 데이터를 한꺼번에 불러올 때 
+ex) merge the 12 months of sales data into a single CSV file
+"""
+
+import pandas as pd
